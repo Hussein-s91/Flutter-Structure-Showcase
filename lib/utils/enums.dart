@@ -1,0 +1,4 @@
+enum View{
+  listView,
+  gridView
+}
